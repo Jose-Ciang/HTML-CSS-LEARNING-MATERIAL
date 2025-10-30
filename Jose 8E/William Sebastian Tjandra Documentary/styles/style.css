@@ -1,0 +1,23 @@
+body{
+    background-image: url(https://basketyuk.co.id/uploads/2024/10/srBnV9EoJ61X-670caa9e6c716.jpg);
+    color: rgb(84, 84, 236);
+}
+
+h1{
+font-family: cursive;
+}
+
+.tjandra{
+    background-color: chartreuse;
+    padding: 30px;
+    margin: 300px;
+}
+
+.tjandra p{
+    color: darkblue;
+}
+
+h1:hover{
+    color: rgb(255, 0, 0);
+    background-color: blue;
+}
